@@ -1,0 +1,179 @@
+body {
+    background-color: #e6e6e6;
+}
+
+.bg-article {
+    background-color: #e7e7e7;
+}
+
+.bg-q {
+    background-color: #ffe0b3;
+    background-size: 100px 200px;
+}
+
+.navbar-nav a {
+    font-size: 20px;
+}
+
+.pdg { 
+    padding-right: 510px;
+    padding-left: 510px; 
+}
+
+p, #Problems {
+   margin-left: 30px
+}
+    
+h1 {
+    font-size: 35px;
+}
+
+.DNRAWW {
+    background-color: #ff944d;
+}
+
+.DeadRick {
+    background-color: #ffff66;
+    height: 94vh;
+}
+
+.no-margin {
+    padding-right: 0;
+    padding-left: 0;
+} 
+
+#DA {
+    text-decoration: none;
+    color: black;
+}
+
+#Telimg {
+    border-radius: 0%;
+}
+
+hr {
+    border: 1px solid #000000;
+    
+}
+
+@media screen and (max-width: 2560px){
+    .DeadRick {
+        height: 92.7vh;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .DeadRick {
+         height: 92.7vh;
+    }
+
+    .pdg {
+        padding-left: 400px;
+        padding-right: 400px;
+    }
+}
+
+@media screen and (max-width: 1360px){
+    .pdg {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .pdg {
+       padding: 0;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    h1 {
+        font-size: 30px;
+    }
+    
+    .DeadRick {
+         height: 92.7vh;
+    }
+
+    .pdg {
+        padding: 0; 
+    }
+
+    #Telimg {
+        width: 320px;
+        height: 220px;
+        padding: 0;
+    }
+}  
+
+@media screen and (max-width: 768px) {
+    h1 {
+        font-size: 25px;
+    }
+
+    .DeadRick {
+        height: 92.7vh;
+    }
+
+    .pdg {
+        padding: 0; 
+    }
+
+    #Telimg {
+        width: 320px;
+        height: 220px;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    h1 {
+        font-size: 19px;
+    }
+
+    h3 {
+        font-size: 25px;
+    }
+
+    .DeadRick {
+        height: 79.8vh;
+    }
+
+    .pdg {
+        padding: 0; 
+    }
+
+    #Telimg {
+        width: 320px;
+        height: 220px; 
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .pdg {
+        padding: 0; 
+    }
+
+    #Telimg {
+        width: 320px;
+        height: 220px;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 320px){
+    h3 {
+        font-size: 20px;
+    }
+
+    .pdg {
+        padding: 0; 
+    }
+
+    #Telimg {
+        width: 320px;
+        height: 220px;
+        padding: 0;
+    }
+}
+
