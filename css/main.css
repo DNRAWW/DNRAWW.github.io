@@ -16,8 +16,8 @@ body {
 }
 
 .pdg { 
-    margin-right: 510px;
-    margin-left: 510px; 
+    padding-right: 510px;
+    padding-left: 510px; 
 }
 
 p, #Problems {
@@ -68,20 +68,20 @@ hr {
     }
 
     .pdg {
-        margin-left: 400px;
-        margin-right: 400px;
+        padding-left: 400px;
+        padding-right: 400px;
     }
 }
 
 @media screen and (max-width: 1360px){
     .pdg {
-        margin: 0;
+        padding: 0;
     }
 }
 
 @media screen and (max-width: 1280px) {
     .pdg {
-       margin: 0;
+       padding: 0;
     }
 }
 
@@ -95,7 +95,7 @@ hr {
     }
 
     .pdg {
-        margin: 0; 
+        padding: 0; 
     }
 
     #Telimg {
@@ -115,7 +115,7 @@ hr {
     }
 
     .pdg {
-        margin: 0; 
+        padding: 0; 
     }
 
     #Telimg {
@@ -139,7 +139,7 @@ hr {
     }
 
     .pdg {
-        margin: 0; 
+        padding: 0; 
     }
 
     #Telimg {
@@ -151,7 +151,7 @@ hr {
 
 @media screen and (max-width: 375px){
     .pdg {
-        margin: 0; 
+        padding: 0; 
     }
 
     #Telimg {
@@ -167,7 +167,7 @@ hr {
     }
 
     .pdg {
-        margin: 0; 
+        padding: 0; 
     }
 
     #Telimg {
