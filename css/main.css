@@ -68,20 +68,20 @@ hr {
     }
 
     .pdg {
-        padding-left: 400px;
-        padding-right: 400px;
+        margin-left: 400px;
+        margin-right: 400px;
     }
 }
 
 @media screen and (max-width: 1360px){
     .pdg {
-        padding: 0;
+        margin: 0;
     }
 }
 
 @media screen and (max-width: 1280px) {
     .pdg {
-       padding: 0;
+       margin: 0;
     }
 }
 
@@ -95,7 +95,7 @@ hr {
     }
 
     .pdg {
-        padding: 0; 
+        margin: 0; 
     }
 
     #Telimg {
@@ -115,7 +115,7 @@ hr {
     }
 
     .pdg {
-        padding: 0; 
+        margin: 0; 
     }
 
     #Telimg {
@@ -139,7 +139,7 @@ hr {
     }
 
     .pdg {
-        padding: 0; 
+        margin: 0; 
     }
 
     #Telimg {
@@ -151,7 +151,7 @@ hr {
 
 @media screen and (max-width: 375px){
     .pdg {
-        padding: 0; 
+        margin: 0; 
     }
 
     #Telimg {
@@ -167,7 +167,7 @@ hr {
     }
 
     .pdg {
-        padding: 0; 
+        margin: 0; 
     }
 
     #Telimg {
